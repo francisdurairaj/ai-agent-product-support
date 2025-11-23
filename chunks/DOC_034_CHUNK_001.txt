@@ -1,0 +1,8 @@
+# HP OfficeJet Pro 9015 - Printhead Error
+## Full Document
+
+Printhead Problem: 
+1. Open cartridge access door. 
+2. Lift the white latch handle on the side of the carriage. 
+3. Remove the printhead (the basket holding cartridges). 
+4. Wipe electrical contacts with lint-free cloth. Reinsert and lock latch.

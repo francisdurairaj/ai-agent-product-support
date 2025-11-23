@@ -1,0 +1,10 @@
+# Google Nest Thermostat - Power Issues (E298)
+## Full Document
+
+Error E298 means no power from the HVAC system. 
+1. Remove the display unit. 
+2. Check if the Blue C-wire is fully inserted and the tab is depressed. 
+3. If no C-wire exists, install the Nest Power Connector at the furnace control board. 
+
+[Image of Nest Thermostat wiring backplate]
+

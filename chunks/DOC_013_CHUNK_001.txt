@@ -1,0 +1,7 @@
+# Dell XPS 15 - BIOS & Overheating
+## Full Document
+
+Fan noise/Heat: Open 'Dell Power Manager'. Set Thermal Management to 'Quiet' or 'Cool'. 
+
+BIOS Update: Ensure battery is >10%. Download .exe from Dell Support. 
+Force Shutdown: Hold power button for 25 seconds to drain flea power.

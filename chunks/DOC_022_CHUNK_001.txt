@@ -1,0 +1,6 @@
+# Roborock S7 - Mop & Sensor Cleaning
+## Full Document
+
+Error 1 (Lidar blocked): Check the orange turret on top. Use a q-tip to spin the laser module gently. 
+
+Mop Smell: Slide the mop cloth off. Wash in washing machine. Clean the water tank with a mild vinegar solution if calcified.

@@ -1,0 +1,10 @@
+# AirPods Pro (2nd Gen) - Connection & Audio Issues
+## Full Document
+
+If AirPods won't connect: 
+1. Put them in the case, close lid, wait 30 seconds. 
+2. Open lid. Go to Settings > Bluetooth, tap 'i', select 'Forget This Device'. 
+3. With lid open, hold the setup button on the back of the case for 15 seconds until the light flashes amber, then white. 
+
+
+If ANC is weak: Ensure the ear tip fit test in iOS settings shows a 'Good Seal'.

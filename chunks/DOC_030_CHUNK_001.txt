@@ -1,0 +1,8 @@
+# Fujifilm Instax Mini 11 - Flashing Lights
+## Full Document
+
+Orange Light Flashing: 
+1. Batteries are dead. Replace with two fresh AA ALKALINE batteries. 
+2. Do NOT use rechargeable batteries (voltage 1.2V is too low; needs 1.5V). 
+
+Photo stuck: Do not pull. Replace batteries and turn camera on to eject.

@@ -1,0 +1,9 @@
+# Nintendo Switch - Joy-Con Drift & Rail Issues
+## Full Document
+
+Drift Fix: 
+1. System Settings > Controllers > Calibrate Control Sticks. 
+2. Press 'X' to calibrate. 
+3. Use a cotton swab with 99% isopropyl alcohol to clean under the rubber flap of the stick. 
+
+Loose Connection: If Joy-Con disconnects in handheld mode, clean the metal contacts on the side rail with a dry toothbrush.

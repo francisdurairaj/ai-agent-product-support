@@ -1,0 +1,7 @@
+# Kindle Paperwhite (11th Gen) - Frozen Screen
+## Full Document
+
+If the screen is stuck on a book page or screensaver: 
+1. Press and hold the power button on the bottom edge. 
+2. Continue holding for a full 40 seconds. Ignore any 'Restart' dialog boxes on the screen. 
+3. Release the button only when the screen flashes or the progress bar appears.

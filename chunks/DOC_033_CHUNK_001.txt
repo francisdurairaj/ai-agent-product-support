@@ -1,0 +1,10 @@
+# DJI Mini 3 Pro - RC Pairing & Calibration
+## Full Document
+
+Link Remote: 
+1. Power on Drone (Press once, then hold). 
+2. Power on Controller. 
+3. Hold Drone power button for 4 seconds until it beeps. 
+4. In Controller settings, tap 'Pair'. 
+
+Compass Error: Move away from metal (cars, rebar). Rotate drone 360 horizontally, then 360 vertically.

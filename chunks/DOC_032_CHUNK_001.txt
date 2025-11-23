@@ -1,0 +1,9 @@
+# Oura Ring Gen 3 - Charger Troubleshooting
+## Full Document
+
+Charger LED: 
+1. Pulsing White: Charging. 
+2. Solid Green: Fully charged. 
+3. Blinking Red: Error. Take ring off, tap charger on table firmly to reset internal connectors, place ring back on. 
+
+Soft Reset: Place ring on charger. Tap the ring on the table (while on charger) 3 times.

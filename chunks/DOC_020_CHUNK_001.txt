@@ -1,0 +1,9 @@
+# Anker 737 Power Bank - Trickle Charge
+## Full Document
+
+Trickle Charge Mode (Green LED): 
+1. Double press the button. The small LED turns green. 
+2. Use this for low-power devices like AirPods or smartwatches to prevent the bank from auto-shutting off. 
+3. Press once to exit mode. 
+
+Screen Reset: If screen % is inaccurate, fully deplete the bank to 0% and recharge to 100%.

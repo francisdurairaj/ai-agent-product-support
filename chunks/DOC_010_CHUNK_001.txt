@@ -1,0 +1,9 @@
+# Fitbit Charge 5 - Sync & GPS Issues
+## Full Document
+
+If the screen is unresponsive (Black Screen): 
+1. Connect to the charging cable. 
+2. Press the button on the flat end of the USB connector 3 times within 8 seconds. 
+3. Wait for the Fitbit logo. 
+
+GPS: Ensure 'GLONASS' is enabled in the Exercise app settings for better tracking in urban areas.

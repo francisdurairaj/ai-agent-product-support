@@ -1,0 +1,9 @@
+# Sonos Arc - HDMI eARC & Trueplay
+## Full Document
+
+No Sound: Ensure HDMI cable is plugged into the TV port labeled 'ARC' or 'eARC'. Enable CEC (Viera Link/AnyNet+) in TV settings. 
+
+Trueplay: 
+1. Go to System > [Room Name] > Trueplay. 
+2. Remove phone case. 
+3. Walk around the room waving the phone slowly as prompted.

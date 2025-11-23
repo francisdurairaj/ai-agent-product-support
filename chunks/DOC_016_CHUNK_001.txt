@@ -1,0 +1,8 @@
+# JBL Flip 6 - Charging & Water Protection
+## Full Document
+
+Red Light Blinking on Charge Port: 
+1. Water or salt detected in the port. 
+2. Do NOT charge. Shake speaker to remove water and let air dry for 2 hours. 
+
+Hard Reset: Hold 'Volume +' and 'Play' buttons for 3 seconds while powered on.

@@ -1,0 +1,11 @@
+# Breville Barista Express - Pressure Gauge
+## Full Document
+
+Pressure Low (Under-Extracted): 
+1. Grind is too coarse. Move dial to a LOWER number (Finer). 
+2. Increase dose amount. 
+3. Tamp harder (approx 30lbs). 
+
+Pressure High (Over-Extracted): 
+1. Grind too fine. Move dial to HIGHER number. 
+2. Decrease dose.

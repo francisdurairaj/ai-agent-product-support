@@ -1,0 +1,7 @@
+# Ring Video Doorbell (2nd Gen) - WiFi Change
+## Full Document
+
+Device Offline: 
+1. Remove the security screw (star bit) and faceplate. 
+2. Press the orange button on the side to enter setup mode (Spinning white light). 
+3. Open Ring App > Three lines (top left) > Devices > [Doorbell] > Device Health > Reconnect to WiFi.

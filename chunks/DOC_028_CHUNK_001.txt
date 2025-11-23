@@ -1,0 +1,9 @@
+# Keychron K2 Keyboard - Bluetooth Switching
+## Full Document
+
+Pairing: 
+1. Switch side toggle to 'BT'. 
+2. Hold Fn + 1 for 4 seconds until the key flashes rapidly. 
+3. Search for 'Keychron K2' on device. 
+
+Mac/Win Mode: Use the side toggle. In Windows mode, the 'Option' key becomes 'Alt' and 'Command' becomes 'Windows'.

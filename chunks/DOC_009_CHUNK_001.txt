@@ -1,0 +1,8 @@
+# PlayStation 5 - Safe Mode & Database Rebuild
+## Full Document
+
+To access Safe Mode: 
+1. Turn off console completely. 
+2. Press and hold the Power button for 7 seconds (release after the second beep). 
+3. Connect controller via USB. 
+4. Select Option 5 'Clear Cache and Rebuild Database' to fix game crashes or UI lag.

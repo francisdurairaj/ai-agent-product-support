@@ -1,0 +1,6 @@
+# TP-Link Kasa Smart Plug - Reset
+## Full Document
+
+Soft Reset (Keep Config): Hold button for 5 seconds (Blinks Amber/Green). 
+
+Factory Reset: Hold button for 10 seconds (Blinks Amber rapidly). Use this if changing routers.

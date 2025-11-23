@@ -1,0 +1,6 @@
+# Amazon Echo Dot (5th Gen) - Factory Reset
+## Full Document
+
+To Reset (Keep Connections): Press and hold 'Action' button (Dot icon) for 25 seconds. 
+
+Factory Reset (Erase All): Press and hold 'Microphone Off' and 'Volume Down' buttons together for 20 seconds. Wait for the light ring to turn orange.

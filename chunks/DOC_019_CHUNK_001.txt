@@ -1,0 +1,8 @@
+# Xbox Series X - Display & Video Reset
+## Full Document
+
+Black Screen on Startup: 
+1. Eject any disc. 
+2. Press and hold the Xbox button on the console for 10 seconds to turn off. 
+3. Press and hold the Xbox button and the Pair button simultaneously. 
+4. Keep holding Pair until the second beep. Console boots in 640x480 mode.

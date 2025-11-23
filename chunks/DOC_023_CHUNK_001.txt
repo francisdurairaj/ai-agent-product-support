@@ -1,0 +1,8 @@
+# LG C2 OLED TV - Pixel Cleaning
+## Full Document
+
+Pixel Cleaning: 
+1. Go to Settings > General > OLED Care > OLED Panel Care. 
+2. Select 'Pixel Cleaning'. 
+3. Choose 'Start Now' (TV turns off for 10 mins) or 'Start Once TV is Off'. 
+Warning: Do not unplug the TV from the wall during this process.

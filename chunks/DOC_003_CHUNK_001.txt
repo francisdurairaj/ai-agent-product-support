@@ -1,0 +1,9 @@
+# Logitech MX Master 3S - Flow & Connectivity
+## Full Document
+
+To pair with a second computer: 
+1. Turn the mouse over. 
+2. Press the Easy-Switch button to select channel 2. 
+3. Press and hold the Easy-Switch button for 3 seconds until the LED blinks fast. 
+
+Troubleshooting Lag: If using the Logi Bolt receiver, ensure it is plugged into a USB 2.0 port or use a USB extension cable to prevent USB 3.0 interference.

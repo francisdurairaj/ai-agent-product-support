@@ -1,0 +1,8 @@
+# Google Nest Hub (2nd Gen) - Screen Settings
+## Full Document
+
+Screen too bright at night: 
+1. Swipe up > Settings > Display > Auto-brightness. 
+2. Check 'Low Light' settings to ensure 'Turn off screen' is selected for darkness. 
+
+Reset: Hold volume up and volume down buttons together for 10 seconds.

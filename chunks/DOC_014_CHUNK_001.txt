@@ -1,0 +1,9 @@
+# Roku Streaming Stick 4K - Remote Pairing
+## Full Document
+
+Remote stopped working: 
+1. Unplug Roku stick from TV. 
+2. Open remote battery cover. Press and hold the small button for 5 seconds until the light flashes green/white. 
+3. Plug Roku stick back in. 
+4. Keep remote close to stick during boot-up. 
+

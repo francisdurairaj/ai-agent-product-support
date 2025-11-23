@@ -1,0 +1,6 @@
+# Bose QuietComfort 45 - Multipoint Bluetooth
+## Full Document
+
+Clear Device List: Slide Power switch to the right and hold for 15 seconds until 'Bluetooth Device List Cleared' is heard. 
+
+Multipoint: Connect to Device A. Slide switch to right and release to put in pairing mode again. Connect Device B. Audio will switch automatically based on playback.

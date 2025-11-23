@@ -1,0 +1,9 @@
+# Canon G3000 Series - Ink System & Reset
+## Full Document
+
+Error 5B00 (Ink Absorber Full): 
+1. Turn off. Hold Power + Stop buttons. 
+2. Release Stop, keep holding Power. 
+3. Press Stop 5 times. Release Power. 
+
+Air in tubes: Perform 'System Cleaning' (takes 10 mins). Ensure tank valves are vertical (Open).

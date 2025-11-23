@@ -1,0 +1,7 @@
+# Waterpik Aquarius - Low Pressure
+## Full Document
+
+No Water Flow: 
+1. Check the black rubber valve in the reservoir tank bottom. Push it with a finger to ensure it isn't stuck. 
+2. Fill with warm water and vinegar (1:1). Run half a tank to descale internal pump. 
+3. Ensure the 'Pause' button on the handle is not engaged.

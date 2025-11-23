@@ -1,0 +1,8 @@
+# reMarkable 2 - Marker Issues
+## Full Document
+
+Jagged Lines: 
+1. The EMR screen is sensitive to magnets. Remove any third-party cases with magnets. 
+2. Touch the bezel with the pen to discharge static. 
+
+Ghosting: Go to Settings > Storage > Check Sync. Force a screen refresh by putting the device to sleep and waking it up.

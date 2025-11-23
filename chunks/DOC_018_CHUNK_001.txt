@@ -1,0 +1,9 @@
+# Philips Hue Bridge - Internet & Light Sync
+## Full Document
+
+LED Status: 
+1. First LED (Power): Must be solid. 
+2. Second LED (Network): Solid means connected to router. If blinking, check Ethernet cable. 
+3. Third LED (Internet): Solid means cloud connection. If blinking, router has no internet access. 
+
+Factory Reset: Use a pin to press the button on the bottom for 10 seconds (Erases all scenes).

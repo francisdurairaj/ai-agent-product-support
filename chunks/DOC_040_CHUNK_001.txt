@@ -1,0 +1,9 @@
+# Nanoleaf Shapes - Hard Reset
+## Full Document
+
+Hard Reset: 
+1. Unplug the power from the wall. 
+2. Hold the Power and Brightness (+) buttons on the controller. 
+3. Plug power back in while holding buttons. 
+4. Keep holding for 10 seconds until lights flash. 
+5. Wait 2 minutes for controller to reboot before pairing.

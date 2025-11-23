@@ -1,0 +1,6 @@
+# Garmin Fenix 7 - GPS & Map Manager
+## Full Document
+
+GPS Soak: Before starting a race, wait 2-3 minutes AFTER the GPS bar turns green to ensure max accuracy. 
+
+Map Manager: Connect to WiFi. Go to Settings > Map > Map Manager. Select region to download TopoActive maps. Note: Downloads are slow; plug into charger.
