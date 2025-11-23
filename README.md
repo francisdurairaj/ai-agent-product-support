@@ -12,6 +12,9 @@ This project implements an AI-powered customer support agent that can:
 
 The agent uses a RAG (Retrieval-Augmented Generation) architecture with semantic search over product documentation.
 
+📄 **[Read the Complete POC Summary](docs/POC_SUMMARY.md)** - Detailed proof of concept documentation with workflows, tool paths, and evaluation criteria.
+
+
 ## Architecture
 
 ### Tech Stack
@@ -208,7 +211,8 @@ Agent: [Searches knowledge base]
 ```
 ai-agent-product-support/
 ├── docs/                  # Documentation
-│   └── architecture.md    # Mermaid architecture diagrams
+│   ├── architecture.md    # Mermaid architecture diagrams
+│   └── POC_SUMMARY.md     # Proof of concept summary
 ├── metadata/              # 40 JSON product manuals
 ├── chunks/                # Generated text chunks (41 files)
 │   └── chunks_metadata.json
