@@ -1,0 +1,18 @@
+{
+    "doc_id": "DOC_019",
+    "file_name": "Xbox_SeriesX_Video.json",
+    "title": "Xbox Series X - Display & Video Reset",
+    "category": "Gaming",
+    "doc_type": "Troubleshooting Guide",
+    "version": "2.1",
+    "effective_date": "2023-08-05",
+    "summary": "Resetting video output when screen is black.",
+    "keywords": [
+        "xbox",
+        "video",
+        "display",
+        "reset",
+        "4k"
+    ],
+    "content": "Black Screen on Startup: \n1. Eject any disc. \n2. Press and hold the Xbox button on the console for 10 seconds to turn off. \n3. Press and hold the Xbox button and the Pair button simultaneously. \n4. Keep holding Pair until the second beep. Console boots in 640x480 mode."
+}

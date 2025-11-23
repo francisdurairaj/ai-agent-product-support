@@ -1,0 +1,18 @@
+{
+    "doc_id": "DOC_005",
+    "file_name": "Kindle_Paperwhite_Troubleshoot.json",
+    "title": "Kindle Paperwhite (11th Gen) - Frozen Screen",
+    "category": "E-Reader",
+    "doc_type": "Troubleshooting Guide",
+    "version": "5.1",
+    "effective_date": "2023-09-12",
+    "summary": "Hard reset instructions for unresponsive or frozen e-ink screens.",
+    "keywords": [
+        "kindle",
+        "amazon",
+        "frozen",
+        "reset",
+        "screen"
+    ],
+    "content": "If the screen is stuck on a book page or screensaver: \n1. Press and hold the power button on the bottom edge. \n2. Continue holding for a full 40 seconds. Ignore any 'Restart' dialog boxes on the screen. \n3. Release the button only when the screen flashes or the progress bar appears."
+}

@@ -1,0 +1,18 @@
+{
+    "doc_id": "DOC_017",
+    "file_name": "Apple_Watch_Ultra_Depth.json",
+    "title": "Apple Watch Ultra - Depth App & Action Button",
+    "category": "Wearable",
+    "doc_type": "User Manual",
+    "version": "1.0",
+    "effective_date": "2023-11-30",
+    "summary": "Configuring the Action Button for diving and workouts.",
+    "keywords": [
+        "apple",
+        "watch",
+        "ultra",
+        "dive",
+        "action button"
+    ],
+    "content": "Action Button Setup: Go to Settings > Action Button. Can be set to: Workout, Stopwatch, Waypoint, Backtrack, Dive, Flashlight. \n\nDepth App Auto-Launch: To prevent the depth app from opening when washing hands, go to Settings > General > Auto-Launch > turn off 'Auto-Launch App'."
+}

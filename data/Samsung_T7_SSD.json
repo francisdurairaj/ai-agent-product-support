@@ -1,0 +1,18 @@
+{
+    "doc_id": "DOC_007",
+    "file_name": "Samsung_T7_SSD.json",
+    "title": "Samsung T7 Touch SSD - Fingerprint Setup",
+    "category": "Storage",
+    "doc_type": "User Manual",
+    "version": "1.1",
+    "effective_date": "2023-03-22",
+    "summary": "Setting up security and fingerprint recognition on portable SSD.",
+    "keywords": [
+        "samsung",
+        "ssd",
+        "t7",
+        "fingerprint",
+        "security"
+    ],
+    "content": "If the drive is not recognized or locked: \n1. Connect to PC using the USB-C cable. \n2. Open the Samsung Portable SSD software. \n3. If LED circle is blinking blue, it is waiting for fingerprint. Touch the sensor box. \n4. To reset password, you must use the recovery key provided during initial setup."
+}

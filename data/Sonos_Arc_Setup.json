@@ -1,0 +1,18 @@
+{
+    "doc_id": "DOC_031",
+    "file_name": "Sonos_Arc_Setup.json",
+    "title": "Sonos Arc - HDMI eARC & Trueplay",
+    "category": "Audio",
+    "doc_type": "User Manual",
+    "version": "2.2",
+    "effective_date": "2023-06-05",
+    "summary": "Setting up TV audio and room calibration.",
+    "keywords": [
+        "sonos",
+        "arc",
+        "soundbar",
+        "hdmi",
+        "setup"
+    ],
+    "content": "No Sound: Ensure HDMI cable is plugged into the TV port labeled 'ARC' or 'eARC'. Enable CEC (Viera Link/AnyNet+) in TV settings. \n\nTrueplay: \n1. Go to System > [Room Name] > Trueplay. \n2. Remove phone case. \n3. Walk around the room waving the phone slowly as prompted."
+}

@@ -1,0 +1,18 @@
+{
+    "doc_id": "DOC_033",
+    "file_name": "DJI_Mini3Pro_Pairing.json",
+    "title": "DJI Mini 3 Pro - RC Pairing & Calibration",
+    "category": "Camera",
+    "doc_type": "User Manual",
+    "version": "1.3",
+    "effective_date": "2023-11-05",
+    "summary": "Linking the drone to the controller and compass calibration.",
+    "keywords": [
+        "dji",
+        "drone",
+        "mini 3",
+        "pairing",
+        "calibration"
+    ],
+    "content": "Link Remote: \n1. Power on Drone (Press once, then hold). \n2. Power on Controller. \n3. Hold Drone power button for 4 seconds until it beeps. \n4. In Controller settings, tap 'Pair'. \n\nCompass Error: Move away from metal (cars, rebar). Rotate drone 360 horizontally, then 360 vertically."
+}

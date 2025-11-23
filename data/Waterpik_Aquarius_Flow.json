@@ -1,0 +1,18 @@
+{
+    "doc_id": "DOC_037",
+    "file_name": "Waterpik_Aquarius_Flow.json",
+    "title": "Waterpik Aquarius - Low Pressure",
+    "category": "Personal Care",
+    "doc_type": "Troubleshooting Guide",
+    "version": "1.5",
+    "effective_date": "2023-02-12",
+    "summary": "Fixing water flow issues.",
+    "keywords": [
+        "waterpik",
+        "flosser",
+        "pressure",
+        "water",
+        "cleaning"
+    ],
+    "content": "No Water Flow: \n1. Check the black rubber valve in the reservoir tank bottom. Push it with a finger to ensure it isn't stuck. \n2. Fill with warm water and vinegar (1:1). Run half a tank to descale internal pump. \n3. Ensure the 'Pause' button on the handle is not engaged."
+}

@@ -1,0 +1,18 @@
+{
+    "doc_id": "DOC_039",
+    "file_name": "Remarkable2_Pen.json",
+    "title": "reMarkable 2 - Marker Issues",
+    "category": "Tablet",
+    "doc_type": "Troubleshooting Guide",
+    "version": "2.0",
+    "effective_date": "2023-11-20",
+    "summary": "Fixing jagged lines and ghosting.",
+    "keywords": [
+        "remarkable",
+        "tablet",
+        "pen",
+        "screen",
+        "writing"
+    ],
+    "content": "Jagged Lines: \n1. The EMR screen is sensitive to magnets. Remove any third-party cases with magnets. \n2. Touch the bezel with the pen to discharge static. \n\nGhosting: Go to Settings > Storage > Check Sync. Force a screen refresh by putting the device to sleep and waking it up."
+}

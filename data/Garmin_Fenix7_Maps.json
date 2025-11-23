@@ -1,0 +1,18 @@
+{
+    "doc_id": "DOC_021",
+    "file_name": "Garmin_Fenix7_Maps.json",
+    "title": "Garmin Fenix 7 - GPS & Map Manager",
+    "category": "Wearable",
+    "doc_type": "User Manual",
+    "version": "1.2",
+    "effective_date": "2023-06-15",
+    "summary": "Managing TopoActive maps and fixing GPS drift.",
+    "keywords": [
+        "garmin",
+        "fenix",
+        "gps",
+        "maps",
+        "navigation"
+    ],
+    "content": "GPS Soak: Before starting a race, wait 2-3 minutes AFTER the GPS bar turns green to ensure max accuracy. \n\nMap Manager: Connect to WiFi. Go to Settings > Map > Map Manager. Select region to download TopoActive maps. Note: Downloads are slow; plug into charger."
+}

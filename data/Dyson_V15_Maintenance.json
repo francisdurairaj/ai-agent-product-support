@@ -1,0 +1,19 @@
+{
+    "doc_id": "DOC_004",
+    "file_name": "Dyson_V15_Maintenance.json",
+    "title": "Dyson V15 Detect - Filter & Blockage Guide",
+    "category": "Home Appliances",
+    "doc_type": "Maintenance Guide",
+    "version": "1.2",
+    "effective_date": "2024-02-01",
+    "summary": "Cleaning instructions for the HEPA filter and clearing airway blockages.",
+    "keywords": [
+        "dyson",
+        "vacuum",
+        "v15",
+        "filter",
+        "cleaning",
+        "blockage"
+    ],
+    "content": "Filter Cleaning Alert: \n1. Unscrew the purple filter unit at the top of the machine. \n2. Wash under cold tap water. Do NOT use detergent. \n3. Squeeze gently and let dry for at least 24 hours in a well-ventilated area. \n\nMotor Pulsing: This indicates a blockage. Check the wand inlet and the bin flap."
+}

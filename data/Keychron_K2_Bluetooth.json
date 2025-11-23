@@ -1,0 +1,18 @@
+{
+    "doc_id": "DOC_028",
+    "file_name": "Keychron_K2_Bluetooth.json",
+    "title": "Keychron K2 Keyboard - Bluetooth Switching",
+    "category": "Peripherals",
+    "doc_type": "User Manual",
+    "version": "1.6",
+    "effective_date": "2023-02-10",
+    "summary": "Switching between Mac/Windows and pairing devices.",
+    "keywords": [
+        "keychron",
+        "keyboard",
+        "bluetooth",
+        "mac",
+        "windows"
+    ],
+    "content": "Pairing: \n1. Switch side toggle to 'BT'. \n2. Hold Fn + 1 for 4 seconds until the key flashes rapidly. \n3. Search for 'Keychron K2' on device. \n\nMac/Win Mode: Use the side toggle. In Windows mode, the 'Option' key becomes 'Alt' and 'Command' becomes 'Windows'."
+}

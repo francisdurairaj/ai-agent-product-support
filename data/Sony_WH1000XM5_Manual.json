@@ -1,0 +1,19 @@
+{
+    "doc_id": "DOC_001",
+    "file_name": "Sony_WH1000XM5_Manual.json",
+    "title": "Sony WH-1000XM5 Headphones - Reset & Pairing Guide",
+    "category": "Audio",
+    "doc_type": "Troubleshooting Guide",
+    "version": "2.1",
+    "effective_date": "2024-01-15",
+    "summary": "Instructions for factory resetting and pairing the WH-1000XM5 noise-canceling headphones.",
+    "keywords": [
+        "sony",
+        "headphones",
+        "reset",
+        "pairing",
+        "bluetooth",
+        "xm5"
+    ],
+    "content": "To initialize the headset to factory settings: \n1. Turn off the headset. \n2. Press and hold the (Power) button and the (NC/AMB) button simultaneously for about 7 seconds. \n3. The indicator (blue) will flash 4 times. \n4. This operation resets volume settings and deletes pairing information. \n\n\n\nTo enter Pairing Mode: Press and hold Power for 5 seconds until you hear 'Bluetooth Pairing'."
+}

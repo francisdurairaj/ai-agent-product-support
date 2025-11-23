@@ -1,0 +1,18 @@
+{
+    "doc_id": "DOC_014",
+    "file_name": "Roku_Stick4K_Remote.json",
+    "title": "Roku Streaming Stick 4K - Remote Pairing",
+    "category": "TV",
+    "doc_type": "User Manual",
+    "version": "1.3",
+    "effective_date": "2023-09-01",
+    "summary": "Re-pairing the voice remote and troubleshooting power.",
+    "keywords": [
+        "roku",
+        "remote",
+        "pairing",
+        "tv",
+        "streaming"
+    ],
+    "content": "Remote stopped working: \n1. Unplug Roku stick from TV. \n2. Open remote battery cover. Press and hold the small button for 5 seconds until the light flashes green/white. \n3. Plug Roku stick back in. \n4. Keep remote close to stick during boot-up. \n"
+}

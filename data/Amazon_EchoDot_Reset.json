@@ -1,0 +1,18 @@
+{
+    "doc_id": "DOC_027",
+    "file_name": "Amazon_EchoDot_Reset.json",
+    "title": "Amazon Echo Dot (5th Gen) - Factory Reset",
+    "category": "Smart Home",
+    "doc_type": "Troubleshooting Guide",
+    "version": "1.0",
+    "effective_date": "2023-11-15",
+    "summary": "Resetting the device while keeping smart home connections.",
+    "keywords": [
+        "amazon",
+        "echo",
+        "dot",
+        "reset",
+        "alexa"
+    ],
+    "content": "To Reset (Keep Connections): Press and hold 'Action' button (Dot icon) for 25 seconds. \n\nFactory Reset (Erase All): Press and hold 'Microphone Off' and 'Volume Down' buttons together for 20 seconds. Wait for the light ring to turn orange."
+}

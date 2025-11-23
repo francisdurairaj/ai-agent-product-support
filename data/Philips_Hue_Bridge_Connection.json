@@ -1,0 +1,18 @@
+{
+    "doc_id": "DOC_018",
+    "file_name": "Philips_Hue_Bridge_Connection.json",
+    "title": "Philips Hue Bridge - Internet & Light Sync",
+    "category": "Smart Home",
+    "doc_type": "Troubleshooting Guide",
+    "version": "3.5",
+    "effective_date": "2023-05-10",
+    "summary": "Diagnosing the 3 LED status lights on the bridge.",
+    "keywords": [
+        "philips",
+        "hue",
+        "bridge",
+        "lights",
+        "internet"
+    ],
+    "content": "LED Status: \n1. First LED (Power): Must be solid. \n2. Second LED (Network): Solid means connected to router. If blinking, check Ethernet cable. \n3. Third LED (Internet): Solid means cloud connection. If blinking, router has no internet access. \n\nFactory Reset: Use a pin to press the button on the bottom for 10 seconds (Erases all scenes)."
+}

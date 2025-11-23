@@ -1,0 +1,18 @@
+{
+    "doc_id": "DOC_036",
+    "file_name": "Google_NestHub_Display.json",
+    "title": "Google Nest Hub (2nd Gen) - Screen Settings",
+    "category": "Smart Home",
+    "doc_type": "User Manual",
+    "version": "1.1",
+    "effective_date": "2023-08-01",
+    "summary": "Managing display brightness and sleep sensing.",
+    "keywords": [
+        "google",
+        "nest hub",
+        "screen",
+        "display",
+        "sleep"
+    ],
+    "content": "Screen too bright at night: \n1. Swipe up > Settings > Display > Auto-brightness. \n2. Check 'Low Light' settings to ensure 'Turn off screen' is selected for darkness. \n\nReset: Hold volume up and volume down buttons together for 10 seconds."
+}

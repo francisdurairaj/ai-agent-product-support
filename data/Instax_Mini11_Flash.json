@@ -1,0 +1,18 @@
+{
+    "doc_id": "DOC_030",
+    "file_name": "Instax_Mini11_Flash.json",
+    "title": "Fujifilm Instax Mini 11 - Flashing Lights",
+    "category": "Camera",
+    "doc_type": "Troubleshooting Guide",
+    "version": "1.0",
+    "effective_date": "2023-01-25",
+    "summary": "Understanding LED error codes.",
+    "keywords": [
+        "fujifilm",
+        "instax",
+        "camera",
+        "error",
+        "flash"
+    ],
+    "content": "Orange Light Flashing: \n1. Batteries are dead. Replace with two fresh AA ALKALINE batteries. \n2. Do NOT use rechargeable batteries (voltage 1.2V is too low; needs 1.5V). \n\nPhoto stuck: Do not pull. Replace batteries and turn camera on to eject."
+}

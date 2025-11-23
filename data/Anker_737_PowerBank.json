@@ -1,0 +1,18 @@
+{
+    "doc_id": "DOC_020",
+    "file_name": "Anker_737_PowerBank.json",
+    "title": "Anker 737 Power Bank - Trickle Charge",
+    "category": "Accessories",
+    "doc_type": "User Manual",
+    "version": "1.0",
+    "effective_date": "2023-02-28",
+    "summary": "Using the digital screen and trickle charging for earbuds.",
+    "keywords": [
+        "anker",
+        "power bank",
+        "charging",
+        "trickle",
+        "battery"
+    ],
+    "content": "Trickle Charge Mode (Green LED): \n1. Double press the button. The small LED turns green. \n2. Use this for low-power devices like AirPods or smartwatches to prevent the bank from auto-shutting off. \n3. Press once to exit mode. \n\nScreen Reset: If screen % is inaccurate, fully deplete the bank to 0% and recharge to 100%."
+}

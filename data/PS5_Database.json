@@ -1,0 +1,18 @@
+{
+    "doc_id": "DOC_009",
+    "file_name": "PS5_Database.json",
+    "title": "PlayStation 5 - Safe Mode & Database Rebuild",
+    "category": "Gaming",
+    "doc_type": "Maintenance Guide",
+    "version": "2.0",
+    "effective_date": "2024-01-10",
+    "summary": "Using Safe Mode to fix system crashes and storage glitches.",
+    "keywords": [
+        "sony",
+        "ps5",
+        "safe mode",
+        "database",
+        "crash"
+    ],
+    "content": "To access Safe Mode: \n1. Turn off console completely. \n2. Press and hold the Power button for 7 seconds (release after the second beep). \n3. Connect controller via USB. \n4. Select Option 5 'Clear Cache and Rebuild Database' to fix game crashes or UI lag."
+}

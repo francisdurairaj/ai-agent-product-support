@@ -1,0 +1,18 @@
+{
+    "doc_id": "DOC_025",
+    "file_name": "Ring_VideoDoorbell_WiFi.json",
+    "title": "Ring Video Doorbell (2nd Gen) - WiFi Change",
+    "category": "Smart Home",
+    "doc_type": "User Manual",
+    "version": "2.5",
+    "effective_date": "2023-09-18",
+    "summary": "Reconnecting to a new router or password.",
+    "keywords": [
+        "ring",
+        "doorbell",
+        "wifi",
+        "setup",
+        "offline"
+    ],
+    "content": "Device Offline: \n1. Remove the security screw (star bit) and faceplate. \n2. Press the orange button on the side to enter setup mode (Spinning white light). \n3. Open Ring App > Three lines (top left) > Devices > [Doorbell] > Device Health > Reconnect to WiFi."
+}

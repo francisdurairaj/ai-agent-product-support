@@ -1,0 +1,18 @@
+{
+    "doc_id": "DOC_026",
+    "file_name": "Bose_QC45_Multipoint.json",
+    "title": "Bose QuietComfort 45 - Multipoint Bluetooth",
+    "category": "Audio",
+    "doc_type": "User Manual",
+    "version": "1.2",
+    "effective_date": "2023-04-01",
+    "summary": "Connecting to two devices simultaneously.",
+    "keywords": [
+        "bose",
+        "qc45",
+        "bluetooth",
+        "multipoint",
+        "pairing"
+    ],
+    "content": "Clear Device List: Slide Power switch to the right and hold for 15 seconds until 'Bluetooth Device List Cleared' is heard. \n\nMultipoint: Connect to Device A. Slide switch to right and release to put in pairing mode again. Connect Device B. Audio will switch automatically based on playback."
+}

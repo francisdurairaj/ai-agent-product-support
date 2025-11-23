@@ -1,0 +1,18 @@
+{
+    "doc_id": "DOC_035",
+    "file_name": "Breville_Barista_Express.json",
+    "title": "Breville Barista Express - Pressure Gauge",
+    "category": "Kitchen",
+    "doc_type": "User Manual",
+    "version": "3.0",
+    "effective_date": "2023-04-20",
+    "summary": "Dialing in espresso extraction pressure.",
+    "keywords": [
+        "breville",
+        "espresso",
+        "pressure",
+        "grind",
+        "coffee"
+    ],
+    "content": "Pressure Low (Under-Extracted): \n1. Grind is too coarse. Move dial to a LOWER number (Finer). \n2. Increase dose amount. \n3. Tamp harder (approx 30lbs). \n\nPressure High (Over-Extracted): \n1. Grind too fine. Move dial to HIGHER number. \n2. Decrease dose."
+}

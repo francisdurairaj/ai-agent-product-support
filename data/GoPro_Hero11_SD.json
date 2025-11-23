@@ -1,0 +1,18 @@
+{
+    "doc_id": "DOC_006",
+    "file_name": "GoPro_Hero11_SD.json",
+    "title": "GoPro Hero 11 Black - SD Card & Battery Errors",
+    "category": "Camera",
+    "doc_type": "Troubleshooting Guide",
+    "version": "1.0",
+    "effective_date": "2023-10-05",
+    "summary": "Handling SD card formatting and cold weather battery performance.",
+    "keywords": [
+        "gopro",
+        "hero11",
+        "sd card",
+        "error",
+        "battery"
+    ],
+    "content": "SD Card Error: Ensure you are using a V30 or UHS-3 rated card. To format: Swipe down > Preferences > Reset > Format SD Card. \n\nCold Weather: Use the Enduro battery (white cap). Standard batteries may shut down in temps below 0\u00b0C even if charged."
+}

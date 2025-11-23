@@ -1,0 +1,18 @@
+{
+    "doc_id": "DOC_032",
+    "file_name": "Oura_Ring_Gen3.json",
+    "title": "Oura Ring Gen 3 - Charger Troubleshooting",
+    "category": "Wearable",
+    "doc_type": "Troubleshooting Guide",
+    "version": "1.4",
+    "effective_date": "2023-09-10",
+    "summary": "Interpreting charger light colors.",
+    "keywords": [
+        "oura",
+        "ring",
+        "battery",
+        "charging",
+        "light"
+    ],
+    "content": "Charger LED: \n1. Pulsing White: Charging. \n2. Solid Green: Fully charged. \n3. Blinking Red: Error. Take ring off, tap charger on table firmly to reset internal connectors, place ring back on. \n\nSoft Reset: Place ring on charger. Tap the ring on the table (while on charger) 3 times."
+}

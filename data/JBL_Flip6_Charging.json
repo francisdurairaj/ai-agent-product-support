@@ -1,0 +1,18 @@
+{
+    "doc_id": "DOC_016",
+    "file_name": "JBL_Flip6_Charging.json",
+    "title": "JBL Flip 6 - Charging & Water Protection",
+    "category": "Audio",
+    "doc_type": "User Manual",
+    "version": "1.1",
+    "effective_date": "2023-07-20",
+    "summary": "Understanding the USB-C protection mode.",
+    "keywords": [
+        "jbl",
+        "speaker",
+        "charging",
+        "water",
+        "reset"
+    ],
+    "content": "Red Light Blinking on Charge Port: \n1. Water or salt detected in the port. \n2. Do NOT charge. Shake speaker to remove water and let air dry for 2 hours. \n\nHard Reset: Hold 'Volume +' and 'Play' buttons for 3 seconds while powered on."
+}

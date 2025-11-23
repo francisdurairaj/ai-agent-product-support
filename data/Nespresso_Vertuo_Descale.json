@@ -1,0 +1,18 @@
+{
+    "doc_id": "DOC_011",
+    "file_name": "Nespresso_Vertuo_Descale.json",
+    "title": "Nespresso Vertuo Next - Descaling & Errors",
+    "category": "Kitchen",
+    "doc_type": "Maintenance Guide",
+    "version": "3.1",
+    "effective_date": "2023-06-30",
+    "summary": "Interpreting light codes and performing descaling.",
+    "keywords": [
+        "nespresso",
+        "vertuo",
+        "coffee",
+        "descale",
+        "orange light"
+    ],
+    "content": "Orange Light Blinking Rapidly: Machine needs descaling. \n1. Empty capsule container. \n2. Fill tank with descaling agent and water. \n3. Lock machine. Hold button for 7 seconds to enter mode. \n\nRed Light (steady): Electronic error. Unplug for 15 minutes."
+}

@@ -1,0 +1,19 @@
+{
+    "doc_id": "DOC_002",
+    "file_name": "Apple_AirPodsPro2_Guide.json",
+    "title": "AirPods Pro (2nd Gen) - Connection & Audio Issues",
+    "category": "Audio",
+    "doc_type": "User Manual",
+    "version": "1.4",
+    "effective_date": "2023-11-10",
+    "summary": "Steps to resolve connectivity drops and active noise cancellation failures.",
+    "keywords": [
+        "apple",
+        "airpods",
+        "pro",
+        "reset",
+        "anc",
+        "audio"
+    ],
+    "content": "If AirPods won't connect: \n1. Put them in the case, close lid, wait 30 seconds. \n2. Open lid. Go to Settings > Bluetooth, tap 'i', select 'Forget This Device'. \n3. With lid open, hold the setup button on the back of the case for 15 seconds until the light flashes amber, then white. \n\n\nIf ANC is weak: Ensure the ear tip fit test in iOS settings shows a 'Good Seal'."
+}

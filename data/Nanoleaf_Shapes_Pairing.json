@@ -1,0 +1,18 @@
+{
+    "doc_id": "DOC_040",
+    "file_name": "Nanoleaf_Shapes_Pairing.json",
+    "title": "Nanoleaf Shapes - Hard Reset",
+    "category": "Smart Home",
+    "doc_type": "Troubleshooting Guide",
+    "version": "1.2",
+    "effective_date": "2023-05-30",
+    "summary": "Resetting the controller when 'Unreachable'.",
+    "keywords": [
+        "nanoleaf",
+        "lights",
+        "reset",
+        "wifi",
+        "controller"
+    ],
+    "content": "Hard Reset: \n1. Unplug the power from the wall. \n2. Hold the Power and Brightness (+) buttons on the controller. \n3. Plug power back in while holding buttons. \n4. Keep holding for 10 seconds until lights flash. \n5. Wait 2 minutes for controller to reboot before pairing."
+}

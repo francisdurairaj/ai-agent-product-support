@@ -1,0 +1,18 @@
+{
+    "doc_id": "DOC_029",
+    "file_name": "WD_External_Drive.json",
+    "title": "WD My Passport - Formatting for Mac/PC",
+    "category": "Storage",
+    "doc_type": "User Manual",
+    "version": "1.1",
+    "effective_date": "2022-08-30",
+    "summary": "Formatting the drive for compatibility.",
+    "keywords": [
+        "wd",
+        "hard drive",
+        "format",
+        "mac",
+        "windows"
+    ],
+    "content": "Drive Read-Only on Mac: Drive is likely NTFS. \n1. Open Disk Utility (Mac). \n2. Select Drive > Erase. \n3. Choose 'ExFAT' for compatibility with both Windows and Mac, or 'APFS' for Mac only. \nWarning: Erasing deletes all data."
+}

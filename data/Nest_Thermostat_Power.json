@@ -1,0 +1,19 @@
+{
+    "doc_id": "DOC_008",
+    "file_name": "Nest_Thermostat_Power.json",
+    "title": "Google Nest Thermostat - Power Issues (E298)",
+    "category": "Smart Home",
+    "doc_type": "Troubleshooting Guide",
+    "version": "4.2",
+    "effective_date": "2023-12-01",
+    "summary": "Diagnosing C-Wire issues and low power warnings.",
+    "keywords": [
+        "google",
+        "nest",
+        "thermostat",
+        "wiring",
+        "power",
+        "error"
+    ],
+    "content": "Error E298 means no power from the HVAC system. \n1. Remove the display unit. \n2. Check if the Blue C-wire is fully inserted and the tab is depressed. \n3. If no C-wire exists, install the Nest Power Connector at the furnace control board. \n\n[Image of Nest Thermostat wiring backplate]\n"
+}

@@ -1,0 +1,18 @@
+{
+    "doc_id": "DOC_012",
+    "file_name": "Canon_G3000_Ink.json",
+    "title": "Canon G3000 Series - Ink System & Reset",
+    "category": "Office",
+    "doc_type": "Troubleshooting Guide",
+    "version": "1.0",
+    "effective_date": "2022-11-20",
+    "summary": "Resetting the ink absorber counter and fixing air in pipes.",
+    "keywords": [
+        "canon",
+        "printer",
+        "ink",
+        "reset",
+        "5b00"
+    ],
+    "content": "Error 5B00 (Ink Absorber Full): \n1. Turn off. Hold Power + Stop buttons. \n2. Release Stop, keep holding Power. \n3. Press Stop 5 times. Release Power. \n\nAir in tubes: Perform 'System Cleaning' (takes 10 mins). Ensure tank valves are vertical (Open)."
+}
