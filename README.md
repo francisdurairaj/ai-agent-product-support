@@ -21,6 +21,9 @@ The agent uses a RAG (Retrieval-Augmented Generation) architecture with semantic
 - **Embeddings**: Sentence Transformers (`all-MiniLM-L6-v2`)
 - **Python**: 3.13+ with `uv` package manager
 
+📊 **[View Detailed Architecture Diagrams](docs/architecture.md)** - Comprehensive Mermaid diagrams showing system flow, LangGraph execution, tool interactions, and data pipeline.
+
+
 ### Data Pipeline
 
 ```
@@ -204,6 +207,8 @@ Agent: [Searches knowledge base]
 
 ```
 ai-agent-product-support/
+├── docs/                  # Documentation
+│   └── architecture.md    # Mermaid architecture diagrams
 ├── metadata/              # 40 JSON product manuals
 ├── chunks/                # Generated text chunks (41 files)
 │   └── chunks_metadata.json
